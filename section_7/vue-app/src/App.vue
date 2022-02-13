@@ -2,8 +2,16 @@
     <section>
         <header><h1>My Friends</h1></header>
         <ul>
-            <friend-contact></friend-contact>
-            <friend-contact></friend-contact>
+            <friend-contact
+            name="chetan paramar"
+            phone-number="1234 5678 90"
+            email-address="chetan@bacancy.com">
+            </friend-contact>
+            <friend-contact
+            name="sandip chavda"
+            phone-number="2345 6789 10"
+            email-address="sandip@bacancy.com">
+            </friend-contact>
         </ul>
     </section>
 </template>
